@@ -34,7 +34,6 @@ public class Ejercicio05 {
 
 		// Recorro la frase de forma inversa y vot concatenando los caracteres
 		for (int i = frase.length() - 1; i > -1; i--) {
-
 			fraseAlr += frase.charAt(i);
 		}
 
