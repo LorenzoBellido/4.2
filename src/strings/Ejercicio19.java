@@ -19,7 +19,7 @@ public class Ejercicio19 {
 		System.out.println("Introduzca una frase");
 		frase = sc.nextLine();
 
-		// Quito los espacios de delante y detras
+		// Quito los espacios de delante y detras.
 		frase = frase.trim();
 
 		// Llamo a la funcion para pasar a nomenglatura camel
